@@ -1,0 +1,11 @@
+﻿@page
+@model TaskForceApp.Pages.ExpenseTracker.LogoutModel
+@{
+}
+
+@functions {
+public void OnGet() {
+            HttpContext.Session.Clear();
+            Response.Redirect("/account/index");
+    }
+}

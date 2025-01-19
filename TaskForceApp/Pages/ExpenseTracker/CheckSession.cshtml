@@ -1,0 +1,18 @@
+﻿@page
+@model TaskForceApp.Pages.CheckSessionModel
+@{
+    ViewData["Title"] = "Check Session";
+}
+
+<h2>Check Session</h2>
+
+@if (Model.ErrorMessage != null)
+{
+    <div class="alert alert-danger">@Model.ErrorMessage</div>
+}
+@if (Model.SuccessMessage != null)
+{
+    <div class="alert alert-success">@Model.SuccessMessage</div>
+}
+
+<p>Email from Session: @Model.EmailFromSession</p>

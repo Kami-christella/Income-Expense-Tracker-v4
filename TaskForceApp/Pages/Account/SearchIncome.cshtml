@@ -1,0 +1,36 @@
+﻿@page
+@model TaskForceApp.Pages.Account.SearchIncomeModel
+
+<h2>Search Results for "@Model.SearchString"</h2>
+
+@if (Model.SearchResults.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Income Amount</th>
+                <th>Account</th>
+                <th>Description</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.SearchResults)
+            {
+                <tr>
+                    <td>@item.income</td>
+                    <td>@item.account</td>
+                    <td>@item.description</td>
+                    <td>
+                        <a href="/ExpenseTracker/Edit?ID=@item.ID"><i class="bi bi-pencil"></i></a>
+                        <a class="btn btn-danger btn-sm" href="/ExpenseTracker/DeleteIncome?ID=@item.ID">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No results found</p>
+}

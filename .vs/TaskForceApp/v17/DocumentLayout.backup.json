@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kami\\source\\repos\\TaskForceApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D354876F-B90B-44CF-9E67-1BE3ACDF490A}|TaskForceApp\\TaskForceApp.csproj|c:\\users\\kami\\source\\repos\\taskforceapp\\taskforceapp\\pages\\expensetracker\\allincome.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D354876F-B90B-44CF-9E67-1BE3ACDF490A}|TaskForceApp\\TaskForceApp.csproj|solutionrelative:taskforceapp\\pages\\expensetracker\\allincome.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D354876F-B90B-44CF-9E67-1BE3ACDF490A}|TaskForceApp\\TaskForceApp.csproj|c:\\users\\kami\\source\\repos\\taskforceapp\\taskforceapp\\pages\\expensetracker\\allincome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D354876F-B90B-44CF-9E67-1BE3ACDF490A}|TaskForceApp\\TaskForceApp.csproj|solutionrelative:taskforceapp\\pages\\expensetracker\\allincome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D354876F-B90B-44CF-9E67-1BE3ACDF490A}|TaskForceApp\\TaskForceApp.csproj|c:\\users\\kami\\source\\repos\\taskforceapp\\taskforceapp\\pages\\expensetracker\\addincome.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D354876F-B90B-44CF-9E67-1BE3ACDF490A}|TaskForceApp\\TaskForceApp.csproj|solutionrelative:taskforceapp\\pages\\expensetracker\\addincome.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D354876F-B90B-44CF-9E67-1BE3ACDF490A}|TaskForceApp\\TaskForceApp.csproj|c:\\users\\kami\\source\\repos\\taskforceapp\\taskforceapp\\pages\\expensetracker\\allexpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D354876F-B90B-44CF-9E67-1BE3ACDF490A}|TaskForceApp\\TaskForceApp.csproj|solutionrelative:taskforceapp\\pages\\expensetracker\\allexpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D354876F-B90B-44CF-9E67-1BE3ACDF490A}|TaskForceApp\\TaskForceApp.csproj|c:\\users\\kami\\source\\repos\\taskforceapp\\taskforceapp\\pages\\expensetracker\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D354876F-B90B-44CF-9E67-1BE3ACDF490A}|TaskForceApp\\TaskForceApp.csproj|solutionrelative:taskforceapp\\pages\\expensetracker\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D354876F-B90B-44CF-9E67-1BE3ACDF490A}|TaskForceApp\\TaskForceApp.csproj|c:\\users\\kami\\source\\repos\\taskforceapp\\taskforceapp\\pages\\expensetracker\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D354876F-B90B-44CF-9E67-1BE3ACDF490A}|TaskForceApp\\TaskForceApp.csproj|solutionrelative:taskforceapp\\pages\\expensetracker\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D354876F-B90B-44CF-9E67-1BE3ACDF490A}|TaskForceApp\\TaskForceApp.csproj|c:\\users\\kami\\source\\repos\\taskforceapp\\taskforceapp\\pages\\expensetracker\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D354876F-B90B-44CF-9E67-1BE3ACDF490A}|TaskForceApp\\TaskForceApp.csproj|solutionrelative:taskforceapp\\pages\\expensetracker\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D354876F-B90B-44CF-9E67-1BE3ACDF490A}|TaskForceApp\\TaskForceApp.csproj|c:\\users\\kami\\source\\repos\\taskforceapp\\taskforceapp\\pages\\expensetracker\\allexpense.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D354876F-B90B-44CF-9E67-1BE3ACDF490A}|TaskForceApp\\TaskForceApp.csproj|solutionrelative:taskforceapp\\pages\\expensetracker\\allexpense.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D354876F-B90B-44CF-9E67-1BE3ACDF490A}|TaskForceApp\\TaskForceApp.csproj|c:\\users\\kami\\source\\repos\\taskforceapp\\taskforceapp\\pages\\expensetracker\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D354876F-B90B-44CF-9E67-1BE3ACDF490A}|TaskForceApp\\TaskForceApp.csproj|solutionrelative:taskforceapp\\pages\\expensetracker\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D354876F-B90B-44CF-9E67-1BE3ACDF490A}|TaskForceApp\\TaskForceApp.csproj|c:\\users\\kami\\source\\repos\\taskforceapp\\taskforceapp\\pages\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D354876F-B90B-44CF-9E67-1BE3ACDF490A}|TaskForceApp\\TaskForceApp.csproj|solutionrelative:taskforceapp\\pages\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D354876F-B90B-44CF-9E67-1BE3ACDF490A}|TaskForceApp\\TaskForceApp.csproj|c:\\users\\kami\\source\\repos\\taskforceapp\\taskforceapp\\pages\\dashboard\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D354876F-B90B-44CF-9E67-1BE3ACDF490A}|TaskForceApp\\TaskForceApp.csproj|solutionrelative:taskforceapp\\pages\\dashboard\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddIncome.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\TaskForceApp\\TaskForceApp\\Pages\\ExpenseTracker\\AddIncome.cshtml.cs",
+              "RelativeDocumentMoniker": "TaskForceApp\\Pages\\ExpenseTracker\\AddIncome.cshtml.cs",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\TaskForceApp\\TaskForceApp\\Pages\\ExpenseTracker\\AddIncome.cshtml.cs",
+              "RelativeToolTip": "TaskForceApp\\Pages\\ExpenseTracker\\AddIncome.cshtml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T09:24:28.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\TaskForceApp\\TaskForceApp\\Pages\\ExpenseTracker\\Index.cshtml",
+              "RelativeDocumentMoniker": "TaskForceApp\\Pages\\ExpenseTracker\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\TaskForceApp\\TaskForceApp\\Pages\\ExpenseTracker\\Index.cshtml",
+              "RelativeToolTip": "TaskForceApp\\Pages\\ExpenseTracker\\Index.cshtml",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAAAIEAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T09:08:11.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AllExpense.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\TaskForceApp\\TaskForceApp\\Pages\\ExpenseTracker\\AllExpense.cshtml",
+              "RelativeDocumentMoniker": "TaskForceApp\\Pages\\ExpenseTracker\\AllExpense.cshtml",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\TaskForceApp\\TaskForceApp\\Pages\\ExpenseTracker\\AllExpense.cshtml",
+              "RelativeToolTip": "TaskForceApp\\Pages\\ExpenseTracker\\AllExpense.cshtml",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T09:07:37.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AllIncome.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\TaskForceApp\\TaskForceApp\\Pages\\ExpenseTracker\\AllIncome.cshtml",
+              "RelativeDocumentMoniker": "TaskForceApp\\Pages\\ExpenseTracker\\AllIncome.cshtml",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\TaskForceApp\\TaskForceApp\\Pages\\ExpenseTracker\\AllIncome.cshtml",
+              "RelativeToolTip": "TaskForceApp\\Pages\\ExpenseTracker\\AllIncome.cshtml",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAGsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T08:39:22.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\TaskForceApp\\TaskForceApp\\Pages\\ExpenseTracker\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "TaskForceApp\\Pages\\ExpenseTracker\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\TaskForceApp\\TaskForceApp\\Pages\\ExpenseTracker\\Logout.cshtml.cs",
+              "RelativeToolTip": "TaskForceApp\\Pages\\ExpenseTracker\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T08:49:39.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\TaskForceApp\\TaskForceApp\\Pages\\ExpenseTracker\\Logout.cshtml",
+              "RelativeDocumentMoniker": "TaskForceApp\\Pages\\ExpenseTracker\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\TaskForceApp\\TaskForceApp\\Pages\\ExpenseTracker\\Logout.cshtml",
+              "RelativeToolTip": "TaskForceApp\\Pages\\ExpenseTracker\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T08:46:47.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\TaskForceApp\\TaskForceApp\\Pages\\ExpenseTracker\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "TaskForceApp\\Pages\\ExpenseTracker\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\TaskForceApp\\TaskForceApp\\Pages\\ExpenseTracker\\Index.cshtml.cs",
+              "RelativeToolTip": "TaskForceApp\\Pages\\ExpenseTracker\\Index.cshtml.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAJEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T08:36:51.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AllIncome.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\TaskForceApp\\TaskForceApp\\Pages\\ExpenseTracker\\AllIncome.cshtml.cs",
+              "RelativeDocumentMoniker": "TaskForceApp\\Pages\\ExpenseTracker\\AllIncome.cshtml.cs",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\TaskForceApp\\TaskForceApp\\Pages\\ExpenseTracker\\AllIncome.cshtml.cs",
+              "RelativeToolTip": "TaskForceApp\\Pages\\ExpenseTracker\\AllIncome.cshtml.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAHsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T08:35:45.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AllExpense.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\TaskForceApp\\TaskForceApp\\Pages\\ExpenseTracker\\AllExpense.cshtml.cs",
+              "RelativeDocumentMoniker": "TaskForceApp\\Pages\\ExpenseTracker\\AllExpense.cshtml.cs",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\TaskForceApp\\TaskForceApp\\Pages\\ExpenseTracker\\AllExpense.cshtml.cs",
+              "RelativeToolTip": "TaskForceApp\\Pages\\ExpenseTracker\\AllExpense.cshtml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T08:34:27.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\TaskForceApp\\TaskForceApp\\Pages\\Dashboard\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "TaskForceApp\\Pages\\Dashboard\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\TaskForceApp\\TaskForceApp\\Pages\\Dashboard\\Index.cshtml.cs",
+              "RelativeToolTip": "TaskForceApp\\Pages\\Dashboard\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T08:34:05.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\TaskForceApp\\TaskForceApp\\Pages\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "TaskForceApp\\Pages\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\TaskForceApp\\TaskForceApp\\Pages\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "TaskForceApp\\Pages\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAUwIYAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T08:33:58.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

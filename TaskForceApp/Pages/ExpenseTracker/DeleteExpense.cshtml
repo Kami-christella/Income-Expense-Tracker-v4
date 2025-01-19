@@ -1,0 +1,64 @@
+﻿@page
+@model TaskForceApp.Pages.ExpenseTracker.DeleteExpenseModel
+@{
+}
+<br/>
+<html>
+<body>
+    <a class="btn btn-info" href="/ExpenseTracker/AllExpense">Go Back</a>
+    <h2>Delete Expense</h2>
+    @if (Model.ErrorMessage.Length > 0)
+    {
+        <div class="alert alert-warning alert-dismissible fade show" role="alert">
+            <strong>@Model.ErrorMessage</strong>
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="close"></button>
+        </div>
+    }
+    @if (Model.SuccessMessage.Length > 0)
+    {
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            <strong>@Model.SuccessMessage</strong>
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="close"></button>
+        </div>
+    }
+
+    <form method="post">
+        <div class="form-group">
+            <label class="col-sm-3 col-form-label"> ID</label>
+            <div class="col-sm-6">
+                <input type="number" class="form-control" name="ID" value="@Model.AllInfo.ID" readonly />
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="col-sm-3 col-form-label">Description</label>
+            <div class="col-sm-6">
+                <input type="text" class="form-control" name="description" value="@Model.AllInfo.description" readonly />
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="col-sm-3 col-form-label">Expense Amount</label>
+            <div class="col-sm-6">
+                <input type="number" class="form-control" name="expense" value="@Model.AllInfo.expense" readonly />
+            </div>
+        </div>
+
+        <div class="form-group" style="margin-bottom:10px;">
+            <label class="col-sm-3 col-form-label">Account</label>
+            <div class="col-sm-6">
+                <input type="text" class="form-control" name="account" value="@Model.AllInfo.account" readonly />
+            </div>
+        </div>
+
+        <div class="row mb-3">
+            <div class="offset-sm-3 col-sm-3 d-grid" style="margin-left:30px;">
+                <button type="submit" class="btn btn-danger" style="margin-left:30px;">Delete</button>
+            </div>
+            <div class="offset-sm-3 col-sm-3 d-grid" style="margin-left:60px;">
+                <a class="btn btn-outline-primary" href="/ExpenseTracker/AllExpense" role="button">Cancel</a>
+            </div>
+        </div>
+    </form>
+</body>
+</html>
